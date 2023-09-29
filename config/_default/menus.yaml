@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-de9ff164df064dc3b5b0da8588902f51
+  name: Online Publication
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+HST.953x+3T2020/about
+  weight: 10
